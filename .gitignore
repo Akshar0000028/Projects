@@ -1,3 +1,16 @@
+node_modules/
+dist/
+.env
+.DS_Store
+.vite
+.idea/
+*.log
+npm-debug.log*
+yarn-error.log*
+coverage/
+/.parcel-cache
+/.pnp*
+/.cache
 # Logs
 logs
 *.log
